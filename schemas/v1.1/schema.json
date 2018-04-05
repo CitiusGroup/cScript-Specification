@@ -1,6 +1,6 @@
 {
     "title": "A JSON Schema for cScript 1.1",
-    "id": "https://github.com/CitiusGroup/cScript-Specification/blob/master/schemas/v1.1/schema.json",
+    "id": "https://raw.githubusercontent.com/CitiusGroup/cScript-Specification/master/schemas/v1.1/schema.json",
     "$schema": "http://json-schema.org/draft-04/schema#",
     "type": "object",
     "description": "This is the root document object of the cScript document.",
