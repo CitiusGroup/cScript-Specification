@@ -6,7 +6,7 @@
   "description": "This is the root document object of the cScript document.",
   "additionalProperties": false,
   "properties": {
-    "app": {
+    "app2": {
       "additionalProperties": false,
       "description": "The object provides metadata about the application.",
       "required": [
@@ -15,7 +15,7 @@
         "version"
       ],
       "properties": {
-        "abbreviation2": {
+        "abbreviation": {
           "type": "string",
           "description": "Abbreviation of the application. Must be lowercase and exactly 6 characters.",
           "pattern": "^([a-z]{6})$"
