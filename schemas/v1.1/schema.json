@@ -15,7 +15,7 @@
         "version"
       ],
       "properties": {
-        "abbreviation": {
+        "abbreviation2": {
           "type": "string",
           "description": "Abbreviation of the application. Must be lowercase and exactly 6 characters.",
           "pattern": "^([a-z]{6})$"
