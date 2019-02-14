@@ -6,7 +6,7 @@
   "description": "This is the root document object of the cScript document.",
   "additionalProperties": false,
   "properties": {
-    "app2": {
+    "app": {
       "additionalProperties": false,
       "description": "The object provides metadata about the application.",
       "required": [
