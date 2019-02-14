@@ -418,6 +418,10 @@
             "url": {
               "description": "URL.",
               "type": "string"
+            },
+            "application": {
+              "description": "Abbreviation of the application.",
+              "type": "string"
             }
           }
         }
@@ -434,6 +438,10 @@
       "properties": {
         "url": {
           "description": "URL",
+          "type": "string"
+        },
+        "application": {
+          "description": "Abbreviation of the application.",
           "type": "string"
         }
       }
