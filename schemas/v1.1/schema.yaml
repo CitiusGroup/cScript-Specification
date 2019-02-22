@@ -862,6 +862,9 @@ definitions:
       icon:
         description: Name of the icon.
         type: string
+      imageTop:
+        description: Name of the image on top of the wiki-page.
+        type: string
       items:
         patternProperties:
           "^[a-zA-Z0-9]*$":
