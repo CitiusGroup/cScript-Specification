@@ -868,6 +868,9 @@ definitions:
       imageTopCI:
         description: CI of the image on top of the wiki-page.
         type: string
+      imageTopHeight:
+        description: Height of the image on top of the wiki-page.
+        type: string
       items:
         patternProperties:
           "^[a-zA-Z0-9]*$":
