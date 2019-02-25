@@ -933,6 +933,7 @@ definitions:
         enum:
         - grid
         - list
+        - map
         - rukamap
         - page
         - tabs
